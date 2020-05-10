@@ -1,4 +1,4 @@
-<!-- terraform-env-docs -->
+<!-- auto-terraform-environment-variables -->
 
 ### Environment variables
 
@@ -16,4 +16,4 @@ First, you need to set the environment variables.
 
 3. Load the environment variables `. ./.env`
 
-<!-- terraform-env-docs -->
+<!-- auto-terraform-environment-variables -->
