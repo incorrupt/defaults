@@ -1,4 +1,3 @@
-<!-- auto-terraform-environment-variables -->
 
 ### Environment variables
 
@@ -6,6 +5,7 @@ First, you need to set the environment variables.
 
 > If you want, you can [use an .env file](#using-an-env-file)
 
+<!-- env -->
 <!-- env -->
 
 #### Using an .env file
@@ -15,5 +15,3 @@ First, you need to set the environment variables.
 2. Edit `.env` with your values
 
 3. Load the environment variables `. ./.env`
-
-<!-- auto-terraform-environment-variables -->
