@@ -8,5 +8,3 @@
 2. Edit `.env` with your values
 
 3. Load the environment variables `. ./.env`
-
-#### Variables
