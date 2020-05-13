@@ -1,6 +1,6 @@
 ### Environment variables
 
-#### Using an .env file
+#### Using an .env file for your local environment
 
 1. Copy the example env file `cp .env-example .env && chmod +x .env`
 
