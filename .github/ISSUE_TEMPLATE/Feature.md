@@ -11,7 +11,7 @@ Before opening a new issue, make sure to search for keywords in the existing
 issues and verify the issue you're about to submit isn't a duplicate.
 --->
 
-## Feature Proposal
+## :bulb: Feature Proposal
 ### Use-cases
 <!---
 In order to properly evaluate a feature request, it is necessary to understand the
