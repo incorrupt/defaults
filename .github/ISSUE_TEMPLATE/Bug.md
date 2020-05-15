@@ -11,7 +11,7 @@ Before opening a new issue, make sure to search for keywords in the existing
 issues and verify the issue you're about to submit isn't a duplicate.
 --->
 
-## Bug Report
+## :beetle: Bug Report
 ### Summary
 
 <!--- Summarize the bug encountered concisely  --->
