@@ -2,4 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: Support and Questions
     about: Do not open issues for questions, instead visit our support section.
-    url: docs/SUPPORT.md
+    url: /docs/SUPPORT.md
